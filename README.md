@@ -22,9 +22,13 @@ Siapin alat dan bahannya.
 > termux-setup-storage
 > pkg install git && pkg install wget && pkg install ffmpeg && pkg install nodejs
 > apt update && apt upgrade
-> cd Arya-Bot
-> npm i -g cwebp && npm i -g ytdl && npm i  && npm i got && node index js
-> Tinggal scan kode qr ya cuy...done cuk
+> git clone https://github.com/Sanz-bot/botSANZ2
+> cd botSANZ2
+> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </ s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> orang </s>
+</s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </ s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> orang </s>
+</s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </ s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> orang </s>
+> npm i -g cwebp && npm i -g ytdl && npm i && npm saya mendapat && node index js
+> Tinggal scan kode qr ya cuy ... selesai cuk
 ```
 
 ## Features
@@ -33,10 +37,10 @@ Siapin alat dan bahannya.
 | :-----------: | :------------------------------: |
 |       ✅       | Sticker Creator                  |
 |       ✅       | Nulis                           |
-|       ✅       | Covid (new)                      |
-|       ✅       | Alay (new)                       |
+| ✅ | Covid (baru) |
+| ✅ | Alay (baru) |
 |       ✅       | Lirik (new)                      |
-|       ✅       | Foto Anime                       |
+| ✅ | Foto Anime |
 |       ✅       | Foto cewek/cowok (new)           |
 |       ✅       | Pantun                           |
 |       ✅       | Youtube Downloader               |
